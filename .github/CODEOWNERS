@@ -1,0 +1,9 @@
+ This file is matched from top down; subsequent matches override previous matches.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# By default all files are owned by these teams:
+* 												@raizora/engineering
+
+# These file types, wherever they are, are co-owned by the following teams.
+package.json 									@raizora/engineering
+tsconfig.json 									@raizora/engineering
